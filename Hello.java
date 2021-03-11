@@ -4,5 +4,6 @@ public class Hello
     {
 
         System.out.println("Hello IA1"); // mod print
+        System.out.println("MORE CODE (like a new method)");
     }
 }
